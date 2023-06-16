@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning advanced software engineering, artifical intelligence, communication networks and services,
                             rapid software prototyping for engineering science and software and systems security
 - 💞️ I’m looking to collaborate on cool open source projects!
-- 📫 How to reach me david.mihajlovic@proton****.***
+- 📫 How to reach me.
 
 <!---
 agnorance/agnorance is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
